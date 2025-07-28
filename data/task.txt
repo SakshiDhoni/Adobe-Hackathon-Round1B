@@ -1,0 +1,1 @@
+Job-to-be-Done: Identify and extract key number theory concepts such as modular arithmetic, prime sieves, GCD/LCM, Euler’s theorem, modular inverse, and fast exponentiation to create a quick revision guide.

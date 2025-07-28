@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "documents": [
+      "2023 Annual Report-E.pdf",
+      "annual-report-2023-2024.pdf",
+      "Chapter1.pdf",
+      "organic-chemistry-by-jonathan-clayden-nick-greeves-stuart-warren-z-lib.org_-847123c1.pdf",
+      "pdf.pdf",
+      "tml-integrated-annual-report-fy-2022-23.pdf"
+    ],
+    "persona": "Persona: Competitive Programming Enthusiast\nDescription: A university student preparing for coding competitions like ICPC and Codeforces. Has basic knowledge of number theory and wants to master advanced techniques for solving algorithmic problems.",
+    "job": "Job-to-be-Done: Identify and extract key number theory concepts such as modular arithmetic, prime sieves, GCD/LCM, Euler\u2019s theorem, modular inverse, and fast exponentiation to create a quick revision guide.",
+    "timestamp": "2025-07-28T14:38:07.533795"
+  },
+  "results": [
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 85,
+      "section_title": "There were a total of 48 occupational injuries at ",
+      "importance_rank": 3,
+      "refined_text": "There were a total of 48 occupational injuries at TSMC in 2023, \ninvolving 48 people, representing approximately 0.07% of the \ntotal number of employees. The disabling injury frequency \nrate (FR) was 0.35, under the 0.4 target, and the disability \ninjury severity rate (SR) was 4, not meeting the target of less \nthan 4. TSMC is reviewing potential improvement measures, \nsuch as the promotion of safety culture-related posters or \nanimations to strengthen employee safety awareness. By \nimplementing interactive communication training courses on \nsafety culture, TSMC can integrate safety into daily life and \nencourage employees to proactively discuss safety-related \nissues. To reduce sports injuries, it is mandatory for the welfare \ncommittee and departments to conduct risk identification \nand hazard reminders before organizing sports activities. The \nCompany continuously observes operations and conducts \ncompliance inspections to identify potential injury risks in the \nworkplace and implement improvement measures to enhance \nworkplace safety. In addition to regular reviews, the caring \nprogram for employees has been enhanced and managers \nhave been directed to pay closer attention to the physical and \nmental state of employees to ensure their safety and health \nwhile at work."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 121,
+      "section_title": "In principle, payment term granted to customers is",
+      "importance_rank": 3,
+      "refined_text": "In principle, payment term granted to customers is due 30 days from the invoice date or 15-30 days from the \nend of the month of when the invoice is issued. Due to the short term nature of the receivables from sale of \ngoods with the immaterial discounted effect, the Company measures them at the original invoice amounts \nwithout discounting. \n \nEmployee Benefits \n \nShort-term employee benefits \n \nLiabilities recognized in respect of short-term employee benefits are measured at the undiscounted amount \nof the benefits expected to be paid in exchange for service rendered by employees. \n \nRetirement benefits \n \nFor defined contribution retirement benefit plans, payments to the benefit plan are recognized as an expense \nwhen the employees have rendered service entitling them to the contribution. For defined benefit retirement \nbenefit plans, the cost of providing benefit is recognized based on actuarial calculations.  \n \nDefined benefit costs (including service cost, net interest and remeasurement) under the defined benefit \nretirement benefit plans are determined using the Projected Unit Credit Method. Service cost (including \ncurrent service cost), and net interest on the net defined benefit liability (asset) are recognized as employee \nbenefits expense in the period they occur. Remeasurement, comprising actuarial gains and losses and the \nreturn on plan assets (excluding interest), is recognized in other comprehensive income in the period in which \nthey occur. Remeasurement recognized in other comprehensive income is reflected immediately in retained \nearnings and will not be reclassified to profit or loss.  \n \nNet defined benefit liability represents the actual deficit in the Company\u2019s defined benefit plan. \n \nTreasury Stock  \n \nTreasury stock represents the outstanding shares that the Company buys back from market, which is stated at \ncost and shown as a deduction in shareholders\u2019 equity. When the Company retires treasury stock, the treasury \nstock account is reduced and the common stock as well as the capital surplus - additional paid-in capital are \nreversed on a pro rata basis. When the book value of the treasury stock exceeds the sum of the par value and \nadditional paid-in capital, the difference is charged to capital surplus - treasury stock transactions and to \nretained earnings for any remaining amount.  \n \nShare-based payment arrangements \n \na. Equity-settled share-based payment arrangements \n \nRestricted shares for employees are expensed on a straight-line basis over the vesting period, based on \nthe fair value at the grant date and the Company\u2019s best estimate of the number expected to ultimately \nvest, with a corresponding increase in other equity - unearned employee benefits. \n \nWhen restricted shares for employees are issued, other equity - unearned employee benefits is recognized \non the grant date, with a corresponding increase in capital surplus - restricted shares for employees. \nDividends paid to employees on restricted shares which do not need to be returned if employees resign \nin the vesting period are recognized as expenses upon the dividend declaration with a corresponding \nadjustment in retained earnings. \n \nAt the end of each reporting period, the Company revises its estimate of the number of restricted shares \nfor employees that are expected to vest. The impact from such revision is recognized in profit or loss so \nthat the cumulative expenses reflect the revised estimate, with a corresponding adjustment to capital \nsurplus - restricted shares for employees."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 229,
+      "section_title": "At the end of each reporting period, the Company r",
+      "importance_rank": 3,
+      "refined_text": "At the end of each reporting period, the Company revises its estimate of the number of restricted shares \nfor employees that are expected to vest. The impact from such revision is recognized in profit or loss so \nthat the cumulative expenses reflect the revised estimate, with a corresponding adjustment to capital \nsurplus - restricted shares for employees. \n \nb. Cash-settled share-based payment arrangements \n \nFor cash-settled share-based payments, a liability is recognized for the services acquired, measured at the \nfair value of the liability incurred. At the end of each reporting period until the liability is settled, and at \nthe date of settlement, the fair value of the liability is remeasured, with any changes in fair value \nrecognized in profit or loss. \n \nTaxation \n \nIncome tax expense represents the sum of the tax currently payable and deferred tax. \n \nCurrent tax \n \nIncome tax on unappropriated earnings is expensed in the year the shareholders approved the appropriation \nof earnings which is the year subsequent to the year the earnings are generated. \n \nAdjustments of prior years\u2019 tax liabilities are added to or deducted from the current year\u2019s tax provision. \n \nDeferred tax \n \nDeferred tax is recognized on temporary differences between the carrying amounts of assets and liabilities in \nthe parent company only financial statements and the corresponding tax bases used in the computation of \ntaxable profit. Deferred tax liabilities are generally recognized for all taxable temporary differences. Deferred \ntax assets are generally recognized for all deductible temporary differences, net operating loss carryforwards \nand tax credits for research and development expenses to the extent that it is probable that taxable profits will \nbe available against which those deductible temporary differences can be utilized.  \n \nDeferred tax liabilities are recognized for taxable temporary differences associated with investments in \nsubsidiaries and associates, except where the Company is able to control the reversal of the temporary \ndifference and it is probable that the temporary difference will not reverse in the foreseeable future. Deferred \ntax assets arising from deductible temporary differences associated with such investments are only recognized \nto the extent that it is probable that there will be sufficient taxable profits against which to utilize the benefits \nof the temporary differences and they are expected to reverse in the foreseeable future. \n \nThe carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the \nextent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the \ndeferred tax asset to be recovered. The deferred tax assets which originally not recognized is also reviewed \nat the end of each reporting period and recognized to the extent that it is probable that sufficient taxable \nprofits will be available to allow all or part of the deferred tax asset to be recovered. \n \nDeferred tax liabilities and assets are measured at the tax rates that are expected to apply in the year in which \nthe liability is settled or the asset is realized, based on tax rates (and tax laws) that have been enacted or \nsubstantively enacted by the end of the reporting period. The measurement of deferred tax liabilities and \nassets reflects the tax consequences that would follow from the manner in which the Company expects, at the \nend of the reporting period, to recover or settle the carrying amount of its assets and liabilities. \n \nCurrent and deferred tax for the year \n \nCurrent and deferred tax are recognized in profit or loss, except when they relate to items that are recognized \nin other comprehensive income or directly in equity, in which case, the current and deferred tax are also \nrecognized in other comprehensive income or directly in equity, respectively."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 5,
+      "section_title": "Our focus on mature nodes is to build high yield c",
+      "importance_rank": 2,
+      "refined_text": "Our focus on mature nodes is to build high yield capacity for specialized technologies, rather than just nominal capacity. In \n2023, we worked closely with our customers to introduce specialty technologies such as N6RF+ for smartphones, CMOS \nImage Sensors for cameras, and 22nm MRAM for automotive and industrial applications. Our mature node strategies \nwill continue to focus on working closely with strategic customers to develop specialty technology solutions to meet their \nrequirement, and create differentiated and long-lasting value to customers."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 11,
+      "section_title": "As a technology leader, TSMC is consistently first",
+      "importance_rank": 2,
+      "refined_text": "As a technology leader, TSMC is consistently first among \ndedicated foundries to provide leading-edge, next-generation \ntechnologies. The Company also maintains a leadership \nposition in more mature technologies by applying the lessons \nlearned in developing advanced technologies to enrich its \nspecialty technologies. Beyond process technology, TSMC has \nestablished frontend and backend integration capabilities to \ncreate the optimum power/performance/area \u201csweet spot\u201d to \nhelp customers achieve faster time to production."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 34,
+      "section_title": "and Personal Data Protection and external and inte",
+      "importance_rank": 2,
+      "refined_text": "and Personal Data Protection and external and internal privacy policies to identify the needs to update such documents. Based on \ncurrent personal data protection laws and risks, TSMC conducts an annual training on privacy and personal data protection to \nenhance employees\u2019 awareness and compliance. In addition, the Personal Data Protection Committee composed of Legal, Human \nResources, and IT divisions convene on an annual basis to assist the implementation of and monitoring compliance with the rules."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 40,
+      "section_title": "Note 1: The cash dividend per share was adjusted, ",
+      "importance_rank": 2,
+      "refined_text": "Note 1: The cash dividend per share was adjusted, as authorized by the Board, based on the actual number of common shares outstanding as of the record date for such dividend payment.\nNote 2: The actual cash dividend per share shall be subject to adjustment based on the actual number of common shares outstanding as of the record date for such dividend payment."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 45,
+      "section_title": "without pay. However, the actual number of shares ",
+      "importance_rank": 2,
+      "refined_text": "without pay. However, the actual number of shares that may be vested will not only be calculated according to the vesting conditions but also be prorated \nbased on the number of months of their service during the year prior to the applicable vesting day. If such executives are on leave without pay on any \nvesting day, it shall be deemed that they fail to meet the vesting conditions, and the Company will reclaim the RSAs granted to them and cancel the same \nat no extra cost to the Company."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 46,
+      "section_title": "without pay. However, the actual number of shares ",
+      "importance_rank": 2,
+      "refined_text": "without pay. However, the actual number of shares that may be vested will not only be calculated according to the vesting conditions but also be prorated \nbased on the number of months of their service during the year prior to the applicable vesting day. If such employees are on leave without pay on any \nvesting day, it shall be deemed that they fail to meet the vesting conditions, and the Company will reclaim the RSAs granted to them and cancel the same \nat no extra cost to the Company."
+    },
+    {
+      "document": "2023 Annual Report-E.pdf",
+      "page": 47,
+      "section_title": "without pay. However, the actual number of shares ",
+      "importance_rank": 2,
+      "refined_text": "without pay. However, the actual number of shares that may be vested will not only be calculated according to the vesting conditions but also be prorated \nbased on the number of months of their service during the year prior to the applicable vesting day. If such employees are on leave without pay on any \nvesting day, it shall be deemed that they fail to meet the vesting conditions, and the Company will reclaim the RSAs granted to them and cancel the same \nat no extra cost to the Company."
+    }
+  ]
+}
