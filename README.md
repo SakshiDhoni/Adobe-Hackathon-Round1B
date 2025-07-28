@@ -1,10 +1,10 @@
-# 🤖 Intelligent Document Analysis Engine
+# Intelligent Document Analysis Engine
 
 I designed this system to deliver persona-driven document intelligence for complex document collections. This tool adapts its analysis approach based on user roles and specific tasks, providing tailored insights that matter most to each persona.
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 intelligent-document-analyzer/
@@ -22,7 +22,7 @@ intelligent-document-analyzer/
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 - **Docker Desktop** installed and running
 - **PDF document collection** (3–10 files) in the `input/` folder
@@ -31,7 +31,7 @@ intelligent-document-analyzer/
 
 ---
 
-## 📦 Offline Dependency Management
+## Offline Dependency Management
 
 To ensure builds work without internet, I handle dependencies via local wheels. For example, for PyMuPDF:
 
@@ -55,7 +55,7 @@ RUN pip install --no-cache-dir ./wheels/PyMuPDF-1.23.7-*.whl
 
 ---
 
-## 🏗️ What This System Does
+## What This System Does
 
 - **Input:** A collection of 3–10 PDFs in `input/`
 - **Persona:** Role and expertise defined in `data/persona.txt`
@@ -94,7 +94,7 @@ This processes your document collection with the provided persona and task, gene
 
 ---
 
-## 🔧 Technical Approach & Implementation
+## Technical Approach & Implementation
 
 ### Problem Analysis
 I approached this challenge by recognizing that different personas need different insights from the same document collection. The system needed to be intelligent enough to understand both the user's role and their specific task, then extract and rank document sections accordingly.
@@ -136,7 +136,7 @@ I approached this challenge by recognizing that different personas need differen
 
 ---
 
-## ⚡ Performance Specifications
+## Performance Specifications
 
 - **Processing Time:** ≤ 60 seconds for 3–5 documents
 - **Model Size:** ≤ 1GB total
@@ -146,7 +146,7 @@ I approached this challenge by recognizing that different personas need differen
 
 ---
 
-## 💡 What Makes This Different
+## What Makes This Different
 
 I built this system to be **truly intelligent** rather than just extracting text. It understands context, adapts to different user needs, and provides actionable insights rather than raw data dumps.
 
@@ -164,7 +164,7 @@ I built this system to be **truly intelligent** rather than just extracting text
 
 ---
 
-## 🎉 What To Expect
+## What To Expect
 
 - **Persona-driven insights:** Sections and subsections ranked by relevance to your role and goal
 - **Fast, reliable analysis** for multi-document collections
@@ -174,7 +174,7 @@ I built this system to be **truly intelligent** rather than just extracting text
 
 ---
 
-## 🚀 Real-World Applications
+## Real-World Applications
 
 This system excels in scenarios requiring:
 - **Literature Reviews:** Academic researchers finding relevant methodologies across papers
@@ -185,7 +185,7 @@ This system excels in scenarios requiring:
 
 ---
 
-## 🤝 Next Steps
+## Next Steps
 
 1. **Prepare** your document collection (3–10 PDFs) in the `input/` folder
 2. **Define** your persona in `data/persona.txt` (e.g., "Research Scientist", "Investment Analyst")
@@ -195,7 +195,7 @@ This system excels in scenarios requiring:
 
 ---
 
-## 📋 Example Configuration
+## Example Configuration
 
 **Sample Persona (`data/persona.txt`):**
 ```
